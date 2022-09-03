@@ -11,4 +11,4 @@ It requires either iTunes or both "Apple Mobile Device Support" and "Apple Appli
 4. Open UDP port 4242 in your firewall if you've never done before.
 5. In Smart Head Track iOS application, change connection mode to "USB Cable"
 6. You can see a message at the bottom **Connected**. If it's **Listening** or **Disconnected**, please unplug and plug USB cable again.
-7. Run start_usb_server.bat
+7. Download [headtrack.exe](https://github.com/tinac-support/Smart-Head-Track/raw/main/headtrack.exe) and Run it on your Windows PC.
